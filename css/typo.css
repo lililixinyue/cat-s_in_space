@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Gayathri:wght@100;400;700&family=Luckiest+Guy&family=Righteous&display=swap');
+
+body{
+  font-family: 'Gayathri', sans-serif;
+
+}
+h1,h2,h3,h4,h5,h6{
+  font-family: 'Luckiest Guy', cursive;
+
+}
+nav{
+font-family: 'Righteous', cursive;
+
+}
+h1 {
+font-size: 4em;
+}
+
+header h1 {
+font-size: 1em;
+}
